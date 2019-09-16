@@ -3,7 +3,7 @@ function happyHolidays (""){
   return `${""}!`;
 }
 
-console.log(happyHolidays("Happy Holidays"));
+happyHolidays("Happy Holidays");
 
 
 function happyHolidaysTo(name) {
