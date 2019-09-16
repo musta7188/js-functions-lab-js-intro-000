@@ -12,9 +12,9 @@ return `Happy holidays, ${name}!`;
 
 happyHolidaysTo("Musta")
 
-function happyHolidayTo(Holiday, Name) {
+function happyHolidayTo(holiday, name) {
 
-  return `Happy ${Holiday}, ${Name}!`;
+  return `Happy ${holiday}, ${name}!`;
 }
 
 happyHolidayTo("Spain", "Musta");
